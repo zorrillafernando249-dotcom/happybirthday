@@ -19,49 +19,49 @@ const paginas = [
 {
 titulo:"Aurora ❤️",
 texto:"Otro año más que comparto un cumpleaños contigo aurorita y me siento afortunado de poder estar aquí.",
-imagen:"/recursos/flork/1.png"
+imagen:"1.png"
 },
 
 {
 titulo:"Gracias 🌸",
 texto:"Gracias por cada sonrisa, por cada conversación, por cada mensaje de apoyo en momentos buenos y dificiles que me han alegrado los días.",
-imagen:"/recursos/flork/2.png"
+imagen:"2.png"
 },
 
 {
 titulo:"Tu luz ✨",
 texto:"Siempre he admirado la forma en que sigues adelante y luchas por tus sueños, te mereces todas las alegrías del mundo eres una gran persona con una gran luz en su interior.",
-imagen:"/recursos/flork/3.png"
+imagen:"3.png"
 },
 
 {
 titulo:"Tu sonrisa 😊",
 texto:"Una mujer llena de vida sinceridad humildad que despierta cada día y da lo mejor de si y que con su sonrisa ha sido capaz de alegrar más días de los que imaginas.",
-imagen:"/recursos/flork/4.png"
+imagen:"4.png"
 },
 
 {
 titulo:"Un recuerdo ❤️",
 texto:"Todo este tiempo junto a ti han significado mucho para mí y guardo con cariño muchos momentos compartidos, siempre te estare agradecido por darme la oportunidad de estar contigo desde el primer momento.",
-imagen:"/recursos/flork/5.png"
+imagen:"5.png"
 },
 
 {
 titulo:"Mi deseo 🎂",
 texto:"Espero que este nuevo año de vida te traiga felicidad, salud y muchas metas cumplidas, muchos exitos en lo que te propongas y que luches sin rendirte.",
-imagen:"/recursos/flork/6.png"
+imagen:"6.png"
 },
 
 {
 titulo:"Para ti 🌹",
 texto:"Este detalle es para ti porque me pareció algo bonito para una persona especial.",
-imagen:"/recursos/flork/7.png"
+imagen:"7.png"
 },
 
 {
 titulo:"Feliz Cumpleaños ❤️",
 texto:"Gracias por llegar hasta aquí. Espero que este pequeño regalo pueda sacarte una sonrisa. Feliz cumpleaños Aurora.",
-imagen:"/recursos/flork/8.png"
+imagen:"8.png"
 }
 
 ];
